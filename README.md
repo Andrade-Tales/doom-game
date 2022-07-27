@@ -1,6 +1,8 @@
 # doom-game
 Jogo Doom criado em JavaScript, Css e Html. 
 
+http://Andrade-Tales.github.io/doom-game
+
 <p align="center">
   <img width="460" height="300" src="toReadme/slayer-dance.gif">
 
