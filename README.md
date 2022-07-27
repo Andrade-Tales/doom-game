@@ -2,9 +2,11 @@
   
 Jogo Doom criado em JavaScript, Css e Html. 
 
+Manual: Aperte qualquer tecla para pular, se o monstro te alcançar reinicie a página.
+
 http://Andrade-Tales.github.io/doom-game
   
-  <img width="460" height="300" src="toReadme/slayer-dance.gif">
+<img width="460" height="300" src="toReadme/slayer-dance.gif">
 
 </p>
 
